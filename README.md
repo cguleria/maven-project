@@ -18,4 +18,6 @@ Triggring a build from node1 Linux vagrant-master 3.10.0-1127.el7.x86_64. As par
 
 Triggring a build from node 1. "Test"
 Triggring a build from githubwebhook. :Test" Failed 
-Triggring a build from gitwebhook.
+Triggring a build from gitwebhook.Failed , This webhook has to be configured in the git hub repo settings ans the url should be resolvable.
+
+Test for End to end CI/CD from a git repo to build deployment tomcat on node 1
